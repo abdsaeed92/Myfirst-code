@@ -1,3 +1,4 @@
+#In this program, we asked the user to enter two numbers and this program displays the sum of two numbers entered by user.
 # Store input numbers
 num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
